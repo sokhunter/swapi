@@ -1,5 +1,5 @@
 # Node MySQL API with swapi
-API to consult and save planets fromt swapi using nodeJs, express and MySql
+API to consult and save planets from swapi using nodeJs, express and MySql
 
 ## Run the app
 
